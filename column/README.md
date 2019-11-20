@@ -3,7 +3,7 @@ widget Column berfungsi untuk menyusun komponen-komponen secara vertikal.
 
 Hasilnya sebagai berikut:
 
-
+![Column](https://github.com/cahyoarifandiyarto/Layouts-in-Flutter/blob/master/column/screenshoot/WhatsApp%20Image%202019-11-20%20at%2015.16.56.jpeg)
 
 Pada gambar diatas terdapat empat Widget RaisedButton yang menyusun secara vertical. Agar keempat widget tersebut tidak saling menempel. Maka kita menggunakan widget Container untuk memberikan jarak.
 

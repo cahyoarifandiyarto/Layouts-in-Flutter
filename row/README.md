@@ -4,7 +4,7 @@ Widet Row akan menyusun komponen komponen secara horizontal.
 
 Hasilnya sebagai berikut:
 
-
+![Row](https://github.com/cahyoarifandiyarto/Layouts-in-Flutter/blob/master/row/screenshoot/WhatsApp%20Image%202019-11-20%20at%2014.32.52.jpeg)
 
 Pada gambar diatas terdapat empat widget RaisedButton yang menyusun secara horizontal. Agar keempat widget tersebut tidak saling menempel. Maka kita menggunakan widget Container untuk memberikan jarak.
 

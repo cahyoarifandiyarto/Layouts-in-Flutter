@@ -1,6 +1,5 @@
 # Contoh Aplikasi menggunakan Widget Row dan Column
-
-
+![Kasus](https://github.com/cahyoarifandiyarto/Layouts-in-Flutter/blob/master/example_row_column/screenshoot/WhatsApp%20Image%202019-11-20%20at%2017.25.41.jpeg)
 # Penjelasan
 Pada gambar diatas baris pertama layar diisi dengan image/gambar
 ```
